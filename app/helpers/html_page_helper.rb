@@ -1,0 +1,2 @@
+module HtmlPageHelper
+end
